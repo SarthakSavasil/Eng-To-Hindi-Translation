@@ -1,0 +1,18 @@
+Words
+Recent studies confirm humans respond react music
+music high impact person’s brain activity . The average American listens
+four hours music every day [ 2 ] . People tend listen music based mood
+interests . This project focuses creating application suggest songs
+user based mood capturing facial expressions . Facial expression form
+nonverbal communication . Computer vision interdisciplinary field helps
+convey high-level understanding digital images videos computers . In
+system , computer vision [ 18 ] components used determine user’s emotion
+facial expressions . Once emotion recognized , system suggests
+play-list emotion , saving lot time user selecting playing
+songs manually . Emotion-Based Music Player also keeps track user’s details like
+number plays song , sorts songs based category interest level ,
+reorganizes play-list every time . The system also notifies user songs
+never played deleted modified
+
+Stop-Words
+that, and, to, and, that, has, a, on, up, to, of, to, to, on, there, and, on, an, to, for, on, their, by, is, a, of, is, an, that, a, of, or, to, this, are, to, the, through, the, is, the, a, for, that, a, of, for, a, over, and, of, of, for, each, on, and, and, the, about, the, that, are, so, that, they, can, be, or

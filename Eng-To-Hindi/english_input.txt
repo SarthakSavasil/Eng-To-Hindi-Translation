@@ -1,0 +1,14 @@
+Recent studies confirm that humans respond and react to music and that
+music has a high impact on person’s brain activity. The average American listens up to
+four hours of music every day [2]. People tend to listen to music based on there mood
+and interests. This project focuses on creating an application to suggest songs for
+user based on their mood by capturing facial expressions. Facial expression is a form
+of nonverbal communication. Computer vision is an interdisciplinary field that helps
+convey a high-level understanding of digital images or videos to computers. In this
+system, computer vision [18] components are used to determine the user’s emotion
+through facial expressions. Once the emotion is recognized, the system suggests a
+play-list for that emotion, saving a lot of time for a user over selecting and playing
+songs manually. Emotion-Based Music Player also keeps track of user’s details like
+number of plays for each song, sorts songs based on category and interest level, and
+reorganizes the play-list every time. The system also notifies user about the songs
+that are never played so that they can be deleted or modified
